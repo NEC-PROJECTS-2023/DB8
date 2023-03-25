@@ -1,13 +1,13 @@
 # DB8
-FAKE NEWS DETECTION USING MACHINE LEARNING
+Fake News Detection using Machine Learning
 
-TEAM MEMBERS
+### TEAM MEMBERS
 
-sai balaji 19471A05N8
-prasad     19471A05N2
-venkatesh  19471A05N5
+1. Sai Balaji 19471A05N8
+2. Prasad     19471A05N2
+3. Venkatesh  19471A05N5
 
-INTODUCTION
+### INTODUCTION
 
 The phenomenon of Fake news is experiencing a rapid and growing progress with the 
 evolution of the means of communication and Social media. Fake news detection is an 
@@ -22,5 +22,5 @@ detection that uses machine learning techniques.
 
 
 
-
+<br/>
 DATA SET LINK: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
