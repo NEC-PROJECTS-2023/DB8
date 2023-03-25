@@ -1,0 +1,9 @@
+flask
+tensorflow
+re
+string
+nltk
+wordcloud
+sklearn
+tensorflow
+numpy
